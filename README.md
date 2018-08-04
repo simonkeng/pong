@@ -1,2 +1,1 @@
-# pong
-Pong game in ES6
+# Pong game in ES6
